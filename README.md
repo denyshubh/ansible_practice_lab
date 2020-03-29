@@ -4,4 +4,4 @@ run this file using the following command
 ### ansible-playbook -i inventory main.yaml
 
 Prerequisit: install ansible in your systsem using
-### sudo apt install andible
+### sudo apt install ansible
